@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
 </div>  
   
 
@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to MERN stack, Golang, FastAPI, GraphQL and AWS.  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I sometimes hate dark mode (only during daytime 😄).
   
 
 <br/>  
