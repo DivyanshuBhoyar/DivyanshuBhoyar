@@ -3,7 +3,9 @@
 </div>  
   
 
-### <div align="center">I'm Divyanshu, a self-taught full-stack developer 👨‍💻. I like to play with new technologies 🚀</div>  
+### <div style = "text-align: center" align="center">I'm Divyanshu, a self-taught full-stack developer 👨‍💻. I like to play with new technologies 🚀
+Check out my <a href = "https://www.divyanshu-b.pages.dev" >portfolio</a>.
+</div>  
   
 
 - 🌱 I’m currently learning Microservices, Kubernetes, gRPC and RemixJS.  
