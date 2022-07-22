@@ -4,7 +4,7 @@
   
 
 ### <div style = "text-align: center" align="center">I'm Divyanshu, a self-taught full-stack developer 👨‍💻. I like to play with new technologies 🚀
-### Check out my <a href = "https://www.divyanshu-b.pages.dev" >portfolio</a>.
+### Check out my <a href = "https://divyanshu-b.pages.dev/" >portfolio</a>.
 </div>  
   
 
