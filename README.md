@@ -84,6 +84,10 @@
 </div>  
   
 
+## My Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DivyansbuBhoyar&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&fire=DD7510&ring=00DDAF&stroke=D50CDD&background=010E0FCE)](https://git.io/streak-stats)
+
+
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=iicjpcuaxp43h9267g6r99kwq&cover_image=true&theme=compact" /></div>  
