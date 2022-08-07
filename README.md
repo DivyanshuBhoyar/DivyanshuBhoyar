@@ -1,14 +1,11 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3400&color=78F70C&lines=%F0%9F%91%8B+Namaste%2C+World!;%F0%9F%91%8B+Hello+World!;%F0%9F%91%8B+Bonjour%2C+World!;%F0%9F%91%8B+Hola%2C+World!)](https://git.io/typing-svg)
 
 ### <div style = "text-align: center" align="center">I'm Divyanshu, a self-taught full-stack developer 👨‍💻. I like to play with new technologies 🚀
 ### Check out my <a href = "https://divyanshu.pages.dev/" >portfolio</a>.
 </div>  
   
 
-- 🌱 I’m currently learning Microservices, Kubernetes, gRPC and RemixJS.  
+- 🌱 I’m currently learning Microservices, Kubernetes, gRPC and webRTC.  
   
 
 - ❓ Ask me about anything related to MERN stack, Golang, FastAPI, GraphQL and AWS.  
@@ -61,6 +58,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
+## My Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DivyanshuBhoyar&theme=dracula&date_format=M%20j[%2C%20Y]&fire=DD7510&ring=00DDAF&stroke=D50CDD&background=010E0FCE)
+
 <br/>  
 
 
@@ -82,12 +82,7 @@
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-## My Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DivyansbuBhoyar&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&fire=DD7510&ring=00DDAF&stroke=D50CDD&background=010E0FCE)](https://git.io/streak-stats)
-
-
+ 
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=iicjpcuaxp43h9267g6r99kwq&cover_image=true&theme=compact" /></div>  
