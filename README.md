@@ -17,7 +17,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Tech I use 
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![Go/Golang](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white&style=for-the-badge)
