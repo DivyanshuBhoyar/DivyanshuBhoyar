@@ -5,7 +5,7 @@
 </div>  
   
 
-- 🌱 I’m currently learning Microservices, Kubernetes, gRPC and webRTC.  
+- 🌱 I’m currently learning Microservices, gRPC and webRTC.  
   
 
 - ❓ Ask me about anything related to MERN stack, Golang, FastAPI, GraphQL and AWS.  
